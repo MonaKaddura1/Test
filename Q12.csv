@@ -1,0 +1,5 @@
+shape,x,y,width,height,rx,ry,r,fill,text
+rect,0,0,200,100,0,0,0,pink,0
+circle,250,50,0,0,0,0,50,0,0
+ellipse,250,50,0,0,150,50,0,0,0
+text,150,50,,,,,,"#fff""","""Some text"""
