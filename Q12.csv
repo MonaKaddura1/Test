@@ -1,5 +1,5 @@
-shape,x,y,width,height,rx,ry,r,fill,stroke
-rect,0,0,200,100,0,0,0,pink,0
-circle,250,50,0,0,0,0,50,0,0
-ellipse,300,150,0,0,150,50,0,0,0
-text,150,50,,,,,,blue,blue
+shape,x,y,width,height,rx,ry,r,fill,stroke,text
+rect,0,0,200,100,0,0,0,pink,0,0
+circle,250,50,0,0,0,0,50,0,0,0
+ellipse,300,150,0,0,150,50,0,0,0,0
+text,150,50,,,,,,blue,blue,"some text"
